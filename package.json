@@ -1,0 +1,21 @@
+{
+  "name": "sort_files",
+  "version": "1.0.0",
+  "description": "Tools for sort files at download directory",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "vp_232<vladpetriv05@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  }
+}
